@@ -1,5 +1,5 @@
 {
-  "name": "cypress-mochawesome-reporter",
+  "name": "@majco333/cypress-mochawesome-reporter",
   "version": "3.2.3",
   "description": "Zero config Mochawesome reporter for Cypress with screenshots",
   "engines": {
